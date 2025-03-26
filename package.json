@@ -1,0 +1,17 @@
+{
+  "name": "bl-app",
+  "version": "1.0.0",
+  "main": "bharatloan-botscript.js",
+  "scripts": {
+    "start": "node bharatloan-botscript.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "express": "^4.21.2",
+    "form-data": "^4.0.2"
+  }
+}
